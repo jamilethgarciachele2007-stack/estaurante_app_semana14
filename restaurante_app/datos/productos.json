@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hamburguesa Doble Queso",
+    "precio": 6.50,
+    "categoria": "Comida Rápida",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "nombre": "Pizza Familiar Pepperoni",
+    "precio": 12.00,
+    "categoria": "Pizzas",
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "nombre": "Jugo Natural de Mora",
+    "precio": 2.00,
+    "categoria": "Bebidas",
+    "stock": 30
+  }
+]
